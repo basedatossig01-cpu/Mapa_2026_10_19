@@ -3,6 +3,7 @@
   <Document id="root_doc">
     <Schema id="Lote_C.schema">
       <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
       <SimpleField name="Nombres_y_" type="string"/>
       <SimpleField name="Sexo" type="string"/>
       <SimpleField name="Cambio_de_" type="string"/>
@@ -28,12 +29,6 @@
       <SimpleField name="Estado_del" type="string"/>
       <SimpleField name="Empresa" type="string"/>
       <SimpleField name="Lote" type="string"/>
-      <SimpleField name="Parametro" type="double"/>
-      <SimpleField name="Sup_SIG" type="double"/>
-      <SimpleField name="Situacion" type="string"/>
-      <SimpleField name="X" type="double"/>
-      <SimpleField name="Y" type="double"/>
-      <SimpleField name="cedula" type="string"/>
     </Schema>
     <Document id="Lote_C">
       <name>Lote_C</name>
@@ -41,6 +36,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">5178107.00000000000</SimpleData>
+            <SimpleData name="cedula">5178107</SimpleData>
             <SimpleData name="Nombres_y_">JACINTA FLORES PAREDES</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -65,11 +61,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.82374775377</SimpleData>
-            <SimpleData name="X">-55.74040581000</SimpleData>
-            <SimpleData name="Y">-25.49438275000</SimpleData>
-            <SimpleData name="cedula">5178107</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -91,6 +82,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7959656.00000000000</SimpleData>
+            <SimpleData name="cedula">7959656</SimpleData>
             <SimpleData name="Nombres_y_">ANTONIA VERA AQUINO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -115,11 +107,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.98878425408</SimpleData>
-            <SimpleData name="X">-55.71559345000</SimpleData>
-            <SimpleData name="Y">-25.65339856000</SimpleData>
-            <SimpleData name="cedula">7959656</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -142,6 +129,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">2089144.00000000000</SimpleData>
+            <SimpleData name="cedula">2089144</SimpleData>
             <SimpleData name="Nombres_y_">SIMEONA TORRES ESPINOLA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -154,8 +142,8 @@
             <SimpleData name="Distrito">REPATRIACION</SimpleData>
             <SimpleData name="Localidad">1RA. LINEA CHACORE</SimpleData>
             <SimpleData name="Teléfono">0973516793</SimpleData>
-            <SimpleData name="Vivienda_L">-25.55401550000</SimpleData>
-            <SimpleData name="Vivienda_1">-55.83828720000</SimpleData>
+            <SimpleData name="Vivienda_L">-25.57149810000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.83733870000</SimpleData>
             <SimpleData name="Superficie">0.70000000000</SimpleData>
             <SimpleData name="Situaci_1">Par?metro</SimpleData>
             <SimpleData name="Plantado">SI</SimpleData>
@@ -166,11 +154,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.76212720341</SimpleData>
-            <SimpleData name="X">-55.83990834000</SimpleData>
-            <SimpleData name="Y">-25.57029204000</SimpleData>
-            <SimpleData name="cedula">2089144</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -191,6 +174,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">2401147.00000000000</SimpleData>
+            <SimpleData name="cedula">2401147</SimpleData>
             <SimpleData name="Nombres_y_">MARCELINO ORTIZ GAVILAN</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -215,11 +199,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.69988264713</SimpleData>
-            <SimpleData name="X">-55.80999312000</SimpleData>
-            <SimpleData name="Y">-25.54858845000</SimpleData>
-            <SimpleData name="cedula">2401147</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -244,6 +223,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6901304.00000000000</SimpleData>
+            <SimpleData name="cedula">6901304</SimpleData>
             <SimpleData name="Nombres_y_">PELAGIO BRITEZ BRITEZ</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -256,8 +236,8 @@
             <SimpleData name="Distrito">REPATRIACION</SimpleData>
             <SimpleData name="Localidad">COM INDIG KAATYMI</SimpleData>
             <SimpleData name="Teléfono">ND</SimpleData>
-            <SimpleData name="Vivienda_L">-25.66446470000</SimpleData>
-            <SimpleData name="Vivienda_1">-55.69899810000</SimpleData>
+            <SimpleData name="Vivienda_L">-25.66225000000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69442330000</SimpleData>
             <SimpleData name="Superficie">0.70000000000</SimpleData>
             <SimpleData name="Situaci_1">Pol?gono</SimpleData>
             <SimpleData name="Plantado">SI</SimpleData>
@@ -268,11 +248,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.74086407379</SimpleData>
-            <SimpleData name="X">-55.69880891000</SimpleData>
-            <SimpleData name="Y">-25.66498562000</SimpleData>
-            <SimpleData name="cedula">6901304</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -296,6 +271,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">8508232.00000000000</SimpleData>
+            <SimpleData name="cedula">8508232</SimpleData>
             <SimpleData name="Nombres_y_">SANNY MEDINA CABRAL</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -320,11 +296,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.69838092987</SimpleData>
-            <SimpleData name="X">-55.69776171000</SimpleData>
-            <SimpleData name="Y">-25.66267349000</SimpleData>
-            <SimpleData name="cedula">8508232</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -348,6 +319,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">4668123.00000000000</SimpleData>
+            <SimpleData name="cedula">4668123</SimpleData>
             <SimpleData name="Nombres_y_">ANA AMARILLA BARRETO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -372,11 +344,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.75456570643</SimpleData>
-            <SimpleData name="X">-55.64935240000</SimpleData>
-            <SimpleData name="Y">-25.53582170000</SimpleData>
-            <SimpleData name="cedula">4668123</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -397,6 +364,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7190380.00000000000</SimpleData>
+            <SimpleData name="cedula">7190380</SimpleData>
             <SimpleData name="Nombres_y_">ANGEL BRITEZ BENITEZ</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -421,11 +389,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.70066552446</SimpleData>
-            <SimpleData name="X">-55.69319496000</SimpleData>
-            <SimpleData name="Y">-25.66212217000</SimpleData>
-            <SimpleData name="cedula">7190380</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -448,6 +411,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7871801.00000000000</SimpleData>
+            <SimpleData name="cedula">7871801</SimpleData>
             <SimpleData name="Nombres_y_">ELVA  BENITEZ PORTILLO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -472,11 +436,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.92883493432</SimpleData>
-            <SimpleData name="X">-55.71367285000</SimpleData>
-            <SimpleData name="Y">-25.66184405000</SimpleData>
-            <SimpleData name="cedula">7871801</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -499,6 +458,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7825655.00000000000</SimpleData>
+            <SimpleData name="cedula">7825655</SimpleData>
             <SimpleData name="Nombres_y_">IDALINA PENAYO GAUTO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -523,11 +483,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.70060588678</SimpleData>
-            <SimpleData name="X">-55.67131092000</SimpleData>
-            <SimpleData name="Y">-25.54250674000</SimpleData>
-            <SimpleData name="cedula">7825655</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -555,6 +510,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6381953.00000000000</SimpleData>
+            <SimpleData name="cedula">6381953</SimpleData>
             <SimpleData name="Nombres_y_">FRANCISCA ROMERO BENITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -579,11 +535,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.71486247157</SimpleData>
-            <SimpleData name="X">-55.72133073000</SimpleData>
-            <SimpleData name="Y">-25.64310094000</SimpleData>
-            <SimpleData name="cedula">6381953</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -608,6 +559,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7174509.00000000000</SimpleData>
+            <SimpleData name="cedula">7174509</SimpleData>
             <SimpleData name="Nombres_y_">AMADO  FERNANDEZ MENDOZA</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -632,11 +584,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.90813043688</SimpleData>
-            <SimpleData name="X">-55.71388371000</SimpleData>
-            <SimpleData name="Y">-25.65219897000</SimpleData>
-            <SimpleData name="cedula">7174509</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -691,6 +638,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">3292462.00000000000</SimpleData>
+            <SimpleData name="cedula">3292462</SimpleData>
             <SimpleData name="Nombres_y_">JUSTINA BENITEZ NU?EZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -715,11 +663,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.89515262129</SimpleData>
-            <SimpleData name="X">-55.75105543000</SimpleData>
-            <SimpleData name="Y">-25.68382330000</SimpleData>
-            <SimpleData name="cedula">3292462</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -740,6 +683,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6240997.00000000000</SimpleData>
+            <SimpleData name="cedula">6240997</SimpleData>
             <SimpleData name="Nombres_y_">MELANIA SOSA BENITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -764,11 +708,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.87195080251</SimpleData>
-            <SimpleData name="X">-55.70299857000</SimpleData>
-            <SimpleData name="Y">-25.65653589000</SimpleData>
-            <SimpleData name="cedula">6240997</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -789,6 +728,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6347063.00000000000</SimpleData>
+            <SimpleData name="cedula">6347063</SimpleData>
             <SimpleData name="Nombres_y_">LEONIDAS BENITEZ MARTINEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -813,11 +753,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.76141762068</SimpleData>
-            <SimpleData name="X">-55.71389670000</SimpleData>
-            <SimpleData name="Y">-25.64655023000</SimpleData>
-            <SimpleData name="cedula">6347063</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -843,6 +778,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7990155.00000000000</SimpleData>
+            <SimpleData name="cedula">7990155</SimpleData>
             <SimpleData name="Nombres_y_">ELSA FARI?A BENITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -867,11 +803,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.77995960766</SimpleData>
-            <SimpleData name="X">-55.70053923000</SimpleData>
-            <SimpleData name="Y">-25.66550086000</SimpleData>
-            <SimpleData name="cedula">7990155</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -896,6 +827,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6374519.00000000000</SimpleData>
+            <SimpleData name="cedula">6374519</SimpleData>
             <SimpleData name="Nombres_y_">EDGAR ACOSTA ROMERO</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -920,11 +852,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.69712215753</SimpleData>
-            <SimpleData name="X">-55.72123930000</SimpleData>
-            <SimpleData name="Y">-25.64202972000</SimpleData>
-            <SimpleData name="cedula">6374519</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -948,6 +875,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">3474840.00000000000</SimpleData>
+            <SimpleData name="cedula">3474840</SimpleData>
             <SimpleData name="Nombres_y_">JUAN BERTON ACOSTA BENITEZ</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -972,11 +900,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.72789723102</SimpleData>
-            <SimpleData name="X">-55.80949137000</SimpleData>
-            <SimpleData name="Y">-25.55220432000</SimpleData>
-            <SimpleData name="cedula">3474840</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -998,6 +921,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">5608880.00000000000</SimpleData>
+            <SimpleData name="cedula">5608880</SimpleData>
             <SimpleData name="Nombres_y_">BIENVENIDO BOGARIN TORRES</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1022,11 +946,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.95520597812</SimpleData>
-            <SimpleData name="X">-55.73995524000</SimpleData>
-            <SimpleData name="Y">-25.51716155000</SimpleData>
-            <SimpleData name="cedula">5608880</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1047,6 +966,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6731114.00000000000</SimpleData>
+            <SimpleData name="cedula">6731114</SimpleData>
             <SimpleData name="Nombres_y_">FRANCISCA FRANCO ARIAS</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1071,11 +991,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.99498073056</SimpleData>
-            <SimpleData name="X">-55.70480054000</SimpleData>
-            <SimpleData name="Y">-25.62899888000</SimpleData>
-            <SimpleData name="cedula">6731114</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1098,6 +1013,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6278537.00000000000</SimpleData>
+            <SimpleData name="cedula">6278537</SimpleData>
             <SimpleData name="Nombres_y_">FRANCISCA BRITEZ BRITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1122,11 +1038,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">1.05164950923</SimpleData>
-            <SimpleData name="X">-55.69328691000</SimpleData>
-            <SimpleData name="Y">-25.65696054000</SimpleData>
-            <SimpleData name="cedula">6278537</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1150,6 +1061,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">8061446.00000000000</SimpleData>
+            <SimpleData name="cedula">8061446</SimpleData>
             <SimpleData name="Nombres_y_">ZUNILDA DUARTE ROMERO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1174,11 +1086,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.72337891847</SimpleData>
-            <SimpleData name="X">-55.69425081000</SimpleData>
-            <SimpleData name="Y">-25.66722706000</SimpleData>
-            <SimpleData name="cedula">8061446</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1200,6 +1107,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6216126.00000000000</SimpleData>
+            <SimpleData name="cedula">6216126</SimpleData>
             <SimpleData name="Nombres_y_">FLORENTINA FERNANDEZ MENDOZA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1224,11 +1132,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.78769386664</SimpleData>
-            <SimpleData name="X">-55.64839130000</SimpleData>
-            <SimpleData name="Y">-25.53433269000</SimpleData>
-            <SimpleData name="cedula">6216126</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1254,6 +1157,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">4416128.00000000000</SimpleData>
+            <SimpleData name="cedula">4416128</SimpleData>
             <SimpleData name="Nombres_y_">MARCELINA MARTINEZ ORTIZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1278,11 +1182,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.69865446123</SimpleData>
-            <SimpleData name="X">-55.64175131000</SimpleData>
-            <SimpleData name="Y">-25.52069919000</SimpleData>
-            <SimpleData name="cedula">4416128</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -1320,6 +1219,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6365985.00000000000</SimpleData>
+            <SimpleData name="cedula">6365985</SimpleData>
             <SimpleData name="Nombres_y_">MARIA DEL CARMEN ACOSTA QUI?ONEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1344,11 +1244,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.90127386379</SimpleData>
-            <SimpleData name="X">-55.74138033000</SimpleData>
-            <SimpleData name="Y">-25.49995095000</SimpleData>
-            <SimpleData name="cedula">6365985</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1370,6 +1265,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7843474.00000000000</SimpleData>
+            <SimpleData name="cedula">7843474</SimpleData>
             <SimpleData name="Nombres_y_">NANCY BENITEZ DUARTE</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1394,11 +1290,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.69457697207</SimpleData>
-            <SimpleData name="X">-55.67970783000</SimpleData>
-            <SimpleData name="Y">-25.53436544000</SimpleData>
-            <SimpleData name="cedula">7843474</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -1441,6 +1332,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">8474363.00000000000</SimpleData>
+            <SimpleData name="cedula">8474363</SimpleData>
             <SimpleData name="Nombres_y_">ELENA BRITEZ VERA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1465,11 +1357,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.99407779719</SimpleData>
-            <SimpleData name="X">-55.71703046000</SimpleData>
-            <SimpleData name="Y">-25.64522637000</SimpleData>
-            <SimpleData name="cedula">8474363</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1495,6 +1382,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">3264014.00000000000</SimpleData>
+            <SimpleData name="cedula">3264014</SimpleData>
             <SimpleData name="Nombres_y_">BLACIDA BONIFACIA ACOSTA BENITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1519,11 +1407,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.71079364327</SimpleData>
-            <SimpleData name="X">-55.77187269000</SimpleData>
-            <SimpleData name="Y">-25.52411110000</SimpleData>
-            <SimpleData name="cedula">3264014</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1544,6 +1427,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7206136.00000000000</SimpleData>
+            <SimpleData name="cedula">7206136</SimpleData>
             <SimpleData name="Nombres_y_">ANTOLIANA BRITEZ BENITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1568,11 +1452,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.90015197109</SimpleData>
-            <SimpleData name="X">-55.70155424000</SimpleData>
-            <SimpleData name="Y">-25.66543625000</SimpleData>
-            <SimpleData name="cedula">7206136</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1598,6 +1477,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">5058958.00000000000</SimpleData>
+            <SimpleData name="cedula">5058958</SimpleData>
             <SimpleData name="Nombres_y_">MARTA LILIANA SANTACRUZ VILLALBA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1622,11 +1502,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">1.07449495508</SimpleData>
-            <SimpleData name="X">-55.80052325000</SimpleData>
-            <SimpleData name="Y">-25.54455888000</SimpleData>
-            <SimpleData name="cedula">5058958</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -1664,6 +1539,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6347059.00000000000</SimpleData>
+            <SimpleData name="cedula">6347059</SimpleData>
             <SimpleData name="Nombres_y_">RAMONA BENITEZ FLORES</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1688,11 +1564,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.93942299205</SimpleData>
-            <SimpleData name="X">-55.71241192000</SimpleData>
-            <SimpleData name="Y">-25.65493414000</SimpleData>
-            <SimpleData name="cedula">6347059</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1717,6 +1588,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">3552199.00000000000</SimpleData>
+            <SimpleData name="cedula">3552199</SimpleData>
             <SimpleData name="Nombres_y_">ISMAEL AMARILLA FERNANDEZ</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1741,11 +1613,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.74939718683</SimpleData>
-            <SimpleData name="X">-55.69512611000</SimpleData>
-            <SimpleData name="Y">-25.66130275000</SimpleData>
-            <SimpleData name="cedula">3552199</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -1796,6 +1663,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">5138631.00000000000</SimpleData>
+            <SimpleData name="cedula">5138631</SimpleData>
             <SimpleData name="Nombres_y_">ISABEL LUGO GIMENEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1820,11 +1688,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.89178882439</SimpleData>
-            <SimpleData name="X">-55.68807578000</SimpleData>
-            <SimpleData name="Y">-25.54596142000</SimpleData>
-            <SimpleData name="cedula">5138631</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1847,6 +1710,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">4467644.00000000000</SimpleData>
+            <SimpleData name="cedula">4467644</SimpleData>
             <SimpleData name="Nombres_y_">GUSTAVO  GALEANO BRITEZ</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1871,11 +1735,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.94542234017</SimpleData>
-            <SimpleData name="X">-55.69325484000</SimpleData>
-            <SimpleData name="Y">-25.65745751000</SimpleData>
-            <SimpleData name="cedula">4467644</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1897,6 +1756,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6240996.00000000000</SimpleData>
+            <SimpleData name="cedula">6240996</SimpleData>
             <SimpleData name="Nombres_y_">ALBERTO  BENITEZ CARDOZO</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1921,11 +1781,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.74176689899</SimpleData>
-            <SimpleData name="X">-55.70247452000</SimpleData>
-            <SimpleData name="Y">-25.65541657000</SimpleData>
-            <SimpleData name="cedula">6240996</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1948,6 +1803,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">8287287.00000000000</SimpleData>
+            <SimpleData name="cedula">8287287</SimpleData>
             <SimpleData name="Nombres_y_">ADRIANA  SAUCEDO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -1972,11 +1828,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.70253972921</SimpleData>
-            <SimpleData name="X">-55.68526963000</SimpleData>
-            <SimpleData name="Y">-25.54466954000</SimpleData>
-            <SimpleData name="cedula">8287287</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2001,6 +1852,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">2239764.00000000000</SimpleData>
+            <SimpleData name="cedula">2239764</SimpleData>
             <SimpleData name="Nombres_y_">SUSANA BENITEZ CARDOZO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2025,11 +1877,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.72402879006</SimpleData>
-            <SimpleData name="X">-55.69528332000</SimpleData>
-            <SimpleData name="Y">-25.65744409000</SimpleData>
-            <SimpleData name="cedula">2239764</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2052,6 +1899,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">5573879.00000000000</SimpleData>
+            <SimpleData name="cedula">5573879</SimpleData>
             <SimpleData name="Nombres_y_">LOURDES FLORES PAREDES</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2076,11 +1924,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.81927054908</SimpleData>
-            <SimpleData name="X">-55.74089163000</SimpleData>
-            <SimpleData name="Y">-25.49531614000</SimpleData>
-            <SimpleData name="cedula">5573879</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -2119,6 +1962,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6578924.00000000000</SimpleData>
+            <SimpleData name="cedula">6578924</SimpleData>
             <SimpleData name="Nombres_y_">MELANIO SOSA BENITEZ</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2143,11 +1987,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.88611723613</SimpleData>
-            <SimpleData name="X">-55.71333450000</SimpleData>
-            <SimpleData name="Y">-25.65447998000</SimpleData>
-            <SimpleData name="cedula">6578924</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2175,6 +2014,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6611383.00000000000</SimpleData>
+            <SimpleData name="cedula">6611383</SimpleData>
             <SimpleData name="Nombres_y_">MARIA ELIZABETH FLORES MACIEL</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2199,11 +2039,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.70080028413</SimpleData>
-            <SimpleData name="X">-55.64737665000</SimpleData>
-            <SimpleData name="Y">-25.53099415000</SimpleData>
-            <SimpleData name="cedula">6611383</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2225,6 +2060,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">1889004.00000000000</SimpleData>
+            <SimpleData name="cedula">1889004</SimpleData>
             <SimpleData name="Nombres_y_">GLORIA SEGOVIA DE CABRERA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2249,11 +2085,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.85863984849</SimpleData>
-            <SimpleData name="X">-55.77492081000</SimpleData>
-            <SimpleData name="Y">-25.52154121000</SimpleData>
-            <SimpleData name="cedula">1889004</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -2289,6 +2120,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7539977.00000000000</SimpleData>
+            <SimpleData name="cedula">7539977</SimpleData>
             <SimpleData name="Nombres_y_">IRMA DUARTE ROMERO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2313,11 +2145,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.79829508760</SimpleData>
-            <SimpleData name="X">-55.69328161000</SimpleData>
-            <SimpleData name="Y">-25.66126537000</SimpleData>
-            <SimpleData name="cedula">7539977</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2344,6 +2171,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7343815.00000000000</SimpleData>
+            <SimpleData name="cedula">7343815</SimpleData>
             <SimpleData name="Nombres_y_">LORENZA CARDOZO BENITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2368,11 +2196,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.71202016323</SimpleData>
-            <SimpleData name="X">-55.74767399000</SimpleData>
-            <SimpleData name="Y">-25.68472715000</SimpleData>
-            <SimpleData name="cedula">7343815</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2393,6 +2216,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">4374187.00000000000</SimpleData>
+            <SimpleData name="cedula">4374187</SimpleData>
             <SimpleData name="Nombres_y_">ROSANA BENITEZ CENTURION</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2417,11 +2241,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.74974288037</SimpleData>
-            <SimpleData name="X">-55.69701083000</SimpleData>
-            <SimpleData name="Y">-25.66346033000</SimpleData>
-            <SimpleData name="cedula">4374187</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2451,6 +2270,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">2453312.00000000000</SimpleData>
+            <SimpleData name="cedula">2453312</SimpleData>
             <SimpleData name="Nombres_y_">LEONARDA  DUARTE BENITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2475,11 +2295,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.82619344539</SimpleData>
-            <SimpleData name="X">-55.71603748000</SimpleData>
-            <SimpleData name="Y">-25.65939822000</SimpleData>
-            <SimpleData name="cedula">2453312</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2503,6 +2318,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6047837.00000000000</SimpleData>
+            <SimpleData name="cedula">6047837</SimpleData>
             <SimpleData name="Nombres_y_">IRMA BENITEZ LEGAL</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2527,11 +2343,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.81272213183</SimpleData>
-            <SimpleData name="X">-55.75177167000</SimpleData>
-            <SimpleData name="Y">-25.68295977000</SimpleData>
-            <SimpleData name="cedula">6047837</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2552,6 +2363,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6704167.00000000000</SimpleData>
+            <SimpleData name="cedula">6704167</SimpleData>
             <SimpleData name="Nombres_y_">RAMON CACERES CACERES</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2576,11 +2388,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.70171755620</SimpleData>
-            <SimpleData name="X">-55.75271390000</SimpleData>
-            <SimpleData name="Y">-25.68266184000</SimpleData>
-            <SimpleData name="cedula">6704167</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2601,6 +2408,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6578916.00000000000</SimpleData>
+            <SimpleData name="cedula">6578916</SimpleData>
             <SimpleData name="Nombres_y_">JORGELINA SOSA CARDOZO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2625,11 +2433,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.74417697894</SimpleData>
-            <SimpleData name="X">-55.74869414000</SimpleData>
-            <SimpleData name="Y">-25.68434357000</SimpleData>
-            <SimpleData name="cedula">6578916</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2650,6 +2453,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7990255.00000000000</SimpleData>
+            <SimpleData name="cedula">7990255</SimpleData>
             <SimpleData name="Nombres_y_">JUAN ESQUIVEL RIVAS</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2674,11 +2478,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.92228525669</SimpleData>
-            <SimpleData name="X">-55.74323615000</SimpleData>
-            <SimpleData name="Y">-25.68660758000</SimpleData>
-            <SimpleData name="cedula">7990255</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2699,6 +2498,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">4441889.00000000000</SimpleData>
+            <SimpleData name="cedula">4441889</SimpleData>
             <SimpleData name="Nombres_y_">ISABEL ROMERO PENAYO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2723,11 +2523,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.80271250326</SimpleData>
-            <SimpleData name="X">-55.71614089000</SimpleData>
-            <SimpleData name="Y">-25.66541840000</SimpleData>
-            <SimpleData name="cedula">4441889</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -2787,6 +2582,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6771694.00000000000</SimpleData>
+            <SimpleData name="cedula">6771694</SimpleData>
             <SimpleData name="Nombres_y_">ELVIO FERNANDEZ ROMERO</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2811,11 +2607,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.78571797700</SimpleData>
-            <SimpleData name="X">-55.74019402000</SimpleData>
-            <SimpleData name="Y">-25.67661470000</SimpleData>
-            <SimpleData name="cedula">6771694</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2840,6 +2631,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">4721050.00000000000</SimpleData>
+            <SimpleData name="cedula">4721050</SimpleData>
             <SimpleData name="Nombres_y_">JACINTA SOSA BENITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2864,11 +2656,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.72221557261</SimpleData>
-            <SimpleData name="X">-55.74069772000</SimpleData>
-            <SimpleData name="Y">-25.67753992000</SimpleData>
-            <SimpleData name="cedula">4721050</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2890,6 +2677,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">4467625.00000000000</SimpleData>
+            <SimpleData name="cedula">4467625</SimpleData>
             <SimpleData name="Nombres_y_">ELVINA CARDOZO BENITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2914,11 +2702,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">1.01033946124</SimpleData>
-            <SimpleData name="X">-55.69251021000</SimpleData>
-            <SimpleData name="Y">-25.65469312000</SimpleData>
-            <SimpleData name="cedula">4467625</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2943,6 +2726,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6901306.00000000000</SimpleData>
+            <SimpleData name="cedula">6901306</SimpleData>
             <SimpleData name="Nombres_y_">TIMOTEO ROMERO</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -2967,11 +2751,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.80022997759</SimpleData>
-            <SimpleData name="X">-55.71188544000</SimpleData>
-            <SimpleData name="Y">-25.67097764000</SimpleData>
-            <SimpleData name="cedula">6901306</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -3001,6 +2780,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">4428801.00000000000</SimpleData>
+            <SimpleData name="cedula">4428801</SimpleData>
             <SimpleData name="Nombres_y_">RUBEN  MONTANIA BLANCO</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3025,11 +2805,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.71124393760</SimpleData>
-            <SimpleData name="X">-55.69367843000</SimpleData>
-            <SimpleData name="Y">-25.64233366000</SimpleData>
-            <SimpleData name="cedula">4428801</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -3052,6 +2827,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7208572.00000000000</SimpleData>
+            <SimpleData name="cedula">7208572</SimpleData>
             <SimpleData name="Nombres_y_">SILVINO BRITEZ BENITEZ</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3076,11 +2852,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.74960209028</SimpleData>
-            <SimpleData name="X">-55.71468619000</SimpleData>
-            <SimpleData name="Y">-25.66705163000</SimpleData>
-            <SimpleData name="cedula">7208572</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -3134,6 +2905,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">4347561.00000000000</SimpleData>
+            <SimpleData name="cedula">4347561</SimpleData>
             <SimpleData name="Nombres_y_">ARCENIO ROMERO PENAYO</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3146,8 +2918,8 @@
             <SimpleData name="Distrito">REPATRIACION</SimpleData>
             <SimpleData name="Localidad">COM INDIG 23 DE JUNIO</SimpleData>
             <SimpleData name="Teléfono">0975334374</SimpleData>
-            <SimpleData name="Vivienda_L">-25.67040830000</SimpleData>
-            <SimpleData name="Vivienda_1">-55.71217830000</SimpleData>
+            <SimpleData name="Vivienda_L">-25.67206540000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.71071380000</SimpleData>
             <SimpleData name="Superficie">0.80000000000</SimpleData>
             <SimpleData name="Situaci_1">Par?metro</SimpleData>
             <SimpleData name="Plantado">SI</SimpleData>
@@ -3158,11 +2930,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.80197989601</SimpleData>
-            <SimpleData name="X">-55.71056033000</SimpleData>
-            <SimpleData name="Y">-25.67172279000</SimpleData>
-            <SimpleData name="cedula">4347561</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -3207,6 +2974,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">5956324.00000000000</SimpleData>
+            <SimpleData name="cedula">5956324</SimpleData>
             <SimpleData name="Nombres_y_">CINTHIA ESTIGARRIBIA MACHUCA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3231,11 +2999,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.97207619616</SimpleData>
-            <SimpleData name="X">-55.73259054000</SimpleData>
-            <SimpleData name="Y">-25.66741334000</SimpleData>
-            <SimpleData name="cedula">5956324</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -3256,6 +3019,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7208534.00000000000</SimpleData>
+            <SimpleData name="cedula">7208534</SimpleData>
             <SimpleData name="Nombres_y_">NERI ROMERO LOPEZ</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3280,11 +3044,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.75074052442</SimpleData>
-            <SimpleData name="X">-55.69362418000</SimpleData>
-            <SimpleData name="Y">-25.66512165000</SimpleData>
-            <SimpleData name="cedula">7208534</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -3317,6 +3076,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">5813206.00000000000</SimpleData>
+            <SimpleData name="cedula">5813206</SimpleData>
             <SimpleData name="Nombres_y_">MARIA ANTONIA ESQUIVEL OLMEDO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3341,11 +3101,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.73547677832</SimpleData>
-            <SimpleData name="X">-55.73569053000</SimpleData>
-            <SimpleData name="Y">-25.67783062000</SimpleData>
-            <SimpleData name="cedula">5813206</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -3371,6 +3126,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7649122.00000000000</SimpleData>
+            <SimpleData name="cedula">7649122</SimpleData>
             <SimpleData name="Nombres_y_">GUILLERMINA CARDOZO RAMIREZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3395,11 +3151,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.84047510573</SimpleData>
-            <SimpleData name="X">-55.71210410000</SimpleData>
-            <SimpleData name="Y">-25.65857895000</SimpleData>
-            <SimpleData name="cedula">7649122</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -3427,6 +3178,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6347053.00000000000</SimpleData>
+            <SimpleData name="cedula">6347053</SimpleData>
             <SimpleData name="Nombres_y_">CATALINA FLORES GALEANO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3439,8 +3191,8 @@
             <SimpleData name="Distrito">REPATRIACION</SimpleData>
             <SimpleData name="Localidad">COM INDIG ?U JHOVY</SimpleData>
             <SimpleData name="Teléfono">0975956770</SimpleData>
-            <SimpleData name="Vivienda_L">-25.46399900000</SimpleData>
-            <SimpleData name="Vivienda_1">-56.01830530000</SimpleData>
+            <SimpleData name="Vivienda_L">-25.65284170000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.71406330000</SimpleData>
             <SimpleData name="Superficie">0.70000000000</SimpleData>
             <SimpleData name="Situaci_1">Par?metro</SimpleData>
             <SimpleData name="Plantado">SI</SimpleData>
@@ -3451,11 +3203,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.70471092139</SimpleData>
-            <SimpleData name="X">-55.71603093000</SimpleData>
-            <SimpleData name="Y">-25.65845288000</SimpleData>
-            <SimpleData name="cedula">6347053</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -3476,6 +3223,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6347052.00000000000</SimpleData>
+            <SimpleData name="cedula">6347052</SimpleData>
             <SimpleData name="Nombres_y_">ROSALINA BENITEZ MARTINEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3500,11 +3248,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.96586479706</SimpleData>
-            <SimpleData name="X">-55.71008248000</SimpleData>
-            <SimpleData name="Y">-25.64862205000</SimpleData>
-            <SimpleData name="cedula">6347052</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -3531,6 +3274,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">3942019.00000000000</SimpleData>
+            <SimpleData name="cedula">3942019</SimpleData>
             <SimpleData name="Nombres_y_">LIDIA BENITEZ GONZALEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3555,11 +3299,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.73993022461</SimpleData>
-            <SimpleData name="X">-55.68028741000</SimpleData>
-            <SimpleData name="Y">-25.52606662000</SimpleData>
-            <SimpleData name="cedula">3942019</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -3583,6 +3322,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6241010.00000000000</SimpleData>
+            <SimpleData name="cedula">6241010</SimpleData>
             <SimpleData name="Nombres_y_">MARI ISABEL BRITEZ CARDOZO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3607,11 +3347,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.73226873617</SimpleData>
-            <SimpleData name="X">-55.69759754000</SimpleData>
-            <SimpleData name="Y">-25.66522794000</SimpleData>
-            <SimpleData name="cedula">6241010</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -3635,6 +3370,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6347049.00000000000</SimpleData>
+            <SimpleData name="cedula">6347049</SimpleData>
             <SimpleData name="Nombres_y_">CATALINA BRITEZ BENITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3659,11 +3395,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.73875823647</SimpleData>
-            <SimpleData name="X">-55.69820995000</SimpleData>
-            <SimpleData name="Y">-25.66566055000</SimpleData>
-            <SimpleData name="cedula">6347049</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -3689,6 +3420,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6347058.00000000000</SimpleData>
+            <SimpleData name="cedula">6347058</SimpleData>
             <SimpleData name="Nombres_y_">LIDIA BENITEZ MARTINEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3713,11 +3445,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.69972588253</SimpleData>
-            <SimpleData name="X">-55.71471890000</SimpleData>
-            <SimpleData name="Y">-25.64807050000</SimpleData>
-            <SimpleData name="cedula">6347058</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -3766,6 +3493,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7755753.00000000000</SimpleData>
+            <SimpleData name="cedula">7755753</SimpleData>
             <SimpleData name="Nombres_y_">CANDIDA MACIEL CARDOZO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3790,11 +3518,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.78029583536</SimpleData>
-            <SimpleData name="X">-55.66827441000</SimpleData>
-            <SimpleData name="Y">-25.52168750000</SimpleData>
-            <SimpleData name="cedula">7755753</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -3817,6 +3540,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7990158.00000000000</SimpleData>
+            <SimpleData name="cedula">7990158</SimpleData>
             <SimpleData name="Nombres_y_">IRMO  MEDINA CABRAL</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3841,11 +3565,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.70845273770</SimpleData>
-            <SimpleData name="X">-55.70594817000</SimpleData>
-            <SimpleData name="Y">-25.66645733000</SimpleData>
-            <SimpleData name="cedula">7990158</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -3889,6 +3608,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7992021.00000000000</SimpleData>
+            <SimpleData name="cedula">7992021</SimpleData>
             <SimpleData name="Nombres_y_">GRACIELA GONZALEZ BENITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3901,8 +3621,8 @@
             <SimpleData name="Distrito">REPATRIACION</SimpleData>
             <SimpleData name="Localidad">COM INDIG PINDO-I</SimpleData>
             <SimpleData name="Teléfono">ND</SimpleData>
-            <SimpleData name="Vivienda_L">-25.53277030000</SimpleData>
-            <SimpleData name="Vivienda_1">-55.67336510000</SimpleData>
+            <SimpleData name="Vivienda_L">-25.52877520000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.67641590000</SimpleData>
             <SimpleData name="Superficie">0.70000000000</SimpleData>
             <SimpleData name="Situaci_1">Par?metro</SimpleData>
             <SimpleData name="Plantado">SI</SimpleData>
@@ -3913,11 +3633,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.71787930294</SimpleData>
-            <SimpleData name="X">-55.67602054000</SimpleData>
-            <SimpleData name="Y">-25.52874553000</SimpleData>
-            <SimpleData name="cedula">7992021</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -3966,6 +3681,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7992086.00000000000</SimpleData>
+            <SimpleData name="cedula">7992086</SimpleData>
             <SimpleData name="Nombres_y_">MARIO VILLALBA MENDOZA</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -3990,11 +3706,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.76047432244</SimpleData>
-            <SimpleData name="X">-55.67672994000</SimpleData>
-            <SimpleData name="Y">-25.52833345000</SimpleData>
-            <SimpleData name="cedula">7992086</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -4035,6 +3746,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7994109.00000000000</SimpleData>
+            <SimpleData name="cedula">7994109</SimpleData>
             <SimpleData name="Nombres_y_">ELISA ACOSTA PENAYO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4059,11 +3771,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.74259577854</SimpleData>
-            <SimpleData name="X">-55.67389059000</SimpleData>
-            <SimpleData name="Y">-25.52641693000</SimpleData>
-            <SimpleData name="cedula">7994109</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -4088,6 +3795,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7996733.00000000000</SimpleData>
+            <SimpleData name="cedula">7996733</SimpleData>
             <SimpleData name="Nombres_y_">MATILDE CABRERA GONZALEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4100,8 +3808,8 @@
             <SimpleData name="Distrito">REPATRIACION</SimpleData>
             <SimpleData name="Localidad">COM INDIG PINDO-I</SimpleData>
             <SimpleData name="Teléfono">ND</SimpleData>
-            <SimpleData name="Vivienda_L">-25.54334670000</SimpleData>
-            <SimpleData name="Vivienda_1">-55.66229500000</SimpleData>
+            <SimpleData name="Vivienda_L">-25.54334290000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.66278260000</SimpleData>
             <SimpleData name="Superficie">0.70000000000</SimpleData>
             <SimpleData name="Situaci_1">Par?metro</SimpleData>
             <SimpleData name="Plantado">SI</SimpleData>
@@ -4112,11 +3820,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.75792888721</SimpleData>
-            <SimpleData name="X">-55.66280605000</SimpleData>
-            <SimpleData name="Y">-25.54306242000</SimpleData>
-            <SimpleData name="cedula">7996733</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -4140,6 +3843,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7997456.00000000000</SimpleData>
+            <SimpleData name="cedula">7997456</SimpleData>
             <SimpleData name="Nombres_y_">LUIS GONZALEZ PEREIRA</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4164,11 +3868,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.75353750449</SimpleData>
-            <SimpleData name="X">-55.67564770000</SimpleData>
-            <SimpleData name="Y">-25.52798519000</SimpleData>
-            <SimpleData name="cedula">7997456</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -4192,6 +3891,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7998661.00000000000</SimpleData>
+            <SimpleData name="cedula">7998661</SimpleData>
             <SimpleData name="Nombres_y_">OLINDA CARDOZO DUARTE</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4216,11 +3916,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.77334383961</SimpleData>
-            <SimpleData name="X">-55.66896540000</SimpleData>
-            <SimpleData name="Y">-25.52245238000</SimpleData>
-            <SimpleData name="cedula">7998661</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -4247,6 +3942,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">8009548.00000000000</SimpleData>
+            <SimpleData name="cedula">8009548</SimpleData>
             <SimpleData name="Nombres_y_">BENJAMINA MENDOZA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4271,11 +3967,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.75263036749</SimpleData>
-            <SimpleData name="X">-55.67637648000</SimpleData>
-            <SimpleData name="Y">-25.52708079000</SimpleData>
-            <SimpleData name="cedula">8009548</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -4314,6 +4005,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">3854064.00000000000</SimpleData>
+            <SimpleData name="cedula">3854064</SimpleData>
             <SimpleData name="Nombres_y_">NIDIA CONTRERA FRANCO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4330,18 +4022,14 @@
             <SimpleData name="Vivienda_1">-55.93664500000</SimpleData>
             <SimpleData name="Superficie">0.70000000000</SimpleData>
             <SimpleData name="Situaci_1">Par?metro</SimpleData>
-            <SimpleData name="Plantado">NO</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Fecha_Plan">2026/08/14</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.71084377346</SimpleData>
-            <SimpleData name="X">-55.93638202000</SimpleData>
-            <SimpleData name="Y">-25.54993376000</SimpleData>
-            <SimpleData name="cedula">3854064</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -4362,6 +4050,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">5666084.00000000000</SimpleData>
+            <SimpleData name="cedula">5666084</SimpleData>
             <SimpleData name="Nombres_y_">PETRONA PORTILLO NU?EZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4382,15 +4071,10 @@
             <SimpleData name="Fecha_Plan">2026/02/04</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.81611255971</SimpleData>
-            <SimpleData name="X">-55.83607874000</SimpleData>
-            <SimpleData name="Y">-25.57584476000</SimpleData>
-            <SimpleData name="cedula">5666084</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -4445,6 +4129,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">1038680.00000000000</SimpleData>
+            <SimpleData name="cedula">1038680</SimpleData>
             <SimpleData name="Nombres_y_">HERMES ANTONIO DUARTE AQUINO</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4465,15 +4150,10 @@
             <SimpleData name="Fecha_Plan">2026/08/15</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.93130574991</SimpleData>
-            <SimpleData name="X">-55.81361954000</SimpleData>
-            <SimpleData name="Y">-25.55978902000</SimpleData>
-            <SimpleData name="cedula">1038680</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -4509,6 +4189,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">2380205.00000000000</SimpleData>
+            <SimpleData name="cedula">2380205</SimpleData>
             <SimpleData name="Nombres_y_">MARGARITA CORONEL MIRANDA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4529,15 +4210,10 @@
             <SimpleData name="Fecha_Plan">2026/08/27</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.85282552149</SimpleData>
-            <SimpleData name="X">-55.97468467000</SimpleData>
-            <SimpleData name="Y">-25.56168165000</SimpleData>
-            <SimpleData name="cedula">2380205</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -4560,6 +4236,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">3014299.00000000000</SimpleData>
+            <SimpleData name="cedula">3014299</SimpleData>
             <SimpleData name="Nombres_y_">CRISTINA ELIZABETH MIRANDA DE BARRETO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4580,15 +4257,10 @@
             <SimpleData name="Fecha_Plan">2026/08/22</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.93265721299</SimpleData>
-            <SimpleData name="X">-55.91249033000</SimpleData>
-            <SimpleData name="Y">-25.55769124000</SimpleData>
-            <SimpleData name="cedula">3014299</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -4609,6 +4281,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">5095412.00000000000</SimpleData>
+            <SimpleData name="cedula">5095412</SimpleData>
             <SimpleData name="Nombres_y_">ADELA ASCURRA TORALES</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4629,15 +4302,10 @@
             <SimpleData name="Fecha_Plan">2026/08/29</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.72354466582</SimpleData>
-            <SimpleData name="X">-56.00169884000</SimpleData>
-            <SimpleData name="Y">-25.57438814000</SimpleData>
-            <SimpleData name="cedula">5095412</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -4658,6 +4326,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7020159.00000000000</SimpleData>
+            <SimpleData name="cedula">7020159</SimpleData>
             <SimpleData name="Nombres_y_">LAURA MELIZA BAEZ AQUINO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4678,15 +4347,10 @@
             <SimpleData name="Fecha_Plan">2026/08/28</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.82586232183</SimpleData>
-            <SimpleData name="X">-55.97876154000</SimpleData>
-            <SimpleData name="Y">-25.55959605000</SimpleData>
-            <SimpleData name="cedula">7020159</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -4722,6 +4386,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">1815217.00000000000</SimpleData>
+            <SimpleData name="cedula">1815217</SimpleData>
             <SimpleData name="Nombres_y_">LORENZO CORONEL MIRANDA</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4742,15 +4407,10 @@
             <SimpleData name="Fecha_Plan">2026/09/03</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.75294554921</SimpleData>
-            <SimpleData name="X">-55.92840755000</SimpleData>
-            <SimpleData name="Y">-25.56681519000</SimpleData>
-            <SimpleData name="cedula">1815217</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -4771,6 +4431,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">2659315.00000000000</SimpleData>
+            <SimpleData name="cedula">2659315</SimpleData>
             <SimpleData name="Nombres_y_">ENRIQUE RUIZ DIAZ FRANCO</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4791,15 +4452,10 @@
             <SimpleData name="Fecha_Plan">2025/10/30</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.89950386132</SimpleData>
-            <SimpleData name="X">-55.75663889000</SimpleData>
-            <SimpleData name="Y">-25.68397311000</SimpleData>
-            <SimpleData name="cedula">2659315</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -4835,6 +4491,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">4155546.00000000000</SimpleData>
+            <SimpleData name="cedula">4155546</SimpleData>
             <SimpleData name="Nombres_y_">MERCEDES CARDENAS AYALA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4855,15 +4512,10 @@
             <SimpleData name="Fecha_Plan">2026/09/05</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.81786684493</SimpleData>
-            <SimpleData name="X">-55.91941938000</SimpleData>
-            <SimpleData name="Y">-25.58862472000</SimpleData>
-            <SimpleData name="cedula">4155546</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -4887,6 +4539,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">4916395.00000000000</SimpleData>
+            <SimpleData name="cedula">4916395</SimpleData>
             <SimpleData name="Nombres_y_">MARCOS GARCIA FERREIRA</SimpleData>
             <SimpleData name="Sexo">Hombre</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4907,15 +4560,10 @@
             <SimpleData name="Fecha_Plan">2026/09/03</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.74102278502</SimpleData>
-            <SimpleData name="X">-55.90617255000</SimpleData>
-            <SimpleData name="Y">-25.56608197000</SimpleData>
-            <SimpleData name="cedula">4916395</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -4938,6 +4586,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6278526.00000000000</SimpleData>
+            <SimpleData name="cedula">6278526</SimpleData>
             <SimpleData name="Nombres_y_">ESTELA BENITEZ FLOREZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -4958,15 +4607,10 @@
             <SimpleData name="Fecha_Plan">2026/05/28</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.72919562932</SimpleData>
-            <SimpleData name="X">-55.71404503000</SimpleData>
-            <SimpleData name="Y">-25.65123872000</SimpleData>
-            <SimpleData name="cedula">6278526</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -5010,6 +4654,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6686737.00000000000</SimpleData>
+            <SimpleData name="cedula">6686737</SimpleData>
             <SimpleData name="Nombres_y_">CECILIA ENCISO CORONEL</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -5030,15 +4675,10 @@
             <SimpleData name="Fecha_Plan">2026/09/02</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.79648892532</SimpleData>
-            <SimpleData name="X">-55.90120381000</SimpleData>
-            <SimpleData name="Y">-25.52668031000</SimpleData>
-            <SimpleData name="cedula">6686737</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -5060,6 +4700,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">6998405.00000000000</SimpleData>
+            <SimpleData name="cedula">6998405</SimpleData>
             <SimpleData name="Nombres_y_">ANGELINA SOSA BENITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -5080,15 +4721,10 @@
             <SimpleData name="Fecha_Plan">2025/10/24</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.79470718744</SimpleData>
-            <SimpleData name="X">-55.74942351000</SimpleData>
-            <SimpleData name="Y">-25.67470680000</SimpleData>
-            <SimpleData name="cedula">6998405</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -5130,6 +4766,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">3911264.00000000000</SimpleData>
+            <SimpleData name="cedula">3911264</SimpleData>
             <SimpleData name="Nombres_y_">TERESITA DEJESUS NU?EZ DE DUARTE</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -5144,21 +4781,16 @@
             <SimpleData name="Teléfono">0986200704</SimpleData>
             <SimpleData name="Vivienda_L">-25.59055330000</SimpleData>
             <SimpleData name="Vivienda_1">-55.89718670000</SimpleData>
-            <SimpleData name="Superficie">0.00000000000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
             <SimpleData name="Situaci_1">Par?metro</SimpleData>
             <SimpleData name="Plantado">SI</SimpleData>
             <SimpleData name="Fecha_Plan">2026/09/05</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
-            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Grupo_de_p">C-P5-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.88088822032</SimpleData>
-            <SimpleData name="X">-55.89691809000</SimpleData>
-            <SimpleData name="Y">-25.58677099000</SimpleData>
-            <SimpleData name="cedula">3911264</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -5179,6 +4811,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">1567719.00000000000</SimpleData>
+            <SimpleData name="cedula">1567719</SimpleData>
             <SimpleData name="Nombres_y_">JUSTINA  AMARILLA OLMEDO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -5195,18 +4828,14 @@
             <SimpleData name="Vivienda_1">-55.99951330000</SimpleData>
             <SimpleData name="Superficie">0.70000000000</SimpleData>
             <SimpleData name="Situaci_1">Par?metro</SimpleData>
-            <SimpleData name="Plantado">NO</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Fecha_Plan">2026/09/23</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
             <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.82586940714</SimpleData>
-            <SimpleData name="X">-56.00115744000</SimpleData>
-            <SimpleData name="Y">-25.53786586000</SimpleData>
-            <SimpleData name="cedula">1567719</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -5227,6 +4856,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">3976669.00000000000</SimpleData>
+            <SimpleData name="cedula">3976669</SimpleData>
             <SimpleData name="Nombres_y_">CELINA TALAVERA DE MARTINEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -5243,18 +4873,14 @@
             <SimpleData name="Vivienda_1">-55.99523260000</SimpleData>
             <SimpleData name="Superficie">0.70000000000</SimpleData>
             <SimpleData name="Situaci_1">Par?metro</SimpleData>
-            <SimpleData name="Plantado">NO</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Fecha_Plan">2026/09/23</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
             <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.72785376813</SimpleData>
-            <SimpleData name="X">-56.01728788000</SimpleData>
-            <SimpleData name="Y">-25.53498149000</SimpleData>
-            <SimpleData name="cedula">3976669</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -5275,6 +4901,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">4606108.00000000000</SimpleData>
+            <SimpleData name="cedula">4606108</SimpleData>
             <SimpleData name="Nombres_y_">NANCY MABEL VERA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -5291,18 +4918,14 @@
             <SimpleData name="Vivienda_1">-55.99788840000</SimpleData>
             <SimpleData name="Superficie">0.70000000000</SimpleData>
             <SimpleData name="Situaci_1">Par?metro</SimpleData>
-            <SimpleData name="Plantado">NO</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Fecha_Plan">2026/09/22</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
             <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.79704196338</SimpleData>
-            <SimpleData name="X">-55.99860661000</SimpleData>
-            <SimpleData name="Y">-25.53636458000</SimpleData>
-            <SimpleData name="cedula">4606108</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -5323,6 +4946,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">5570607.00000000000</SimpleData>
+            <SimpleData name="cedula">5570607</SimpleData>
             <SimpleData name="Nombres_y_">LIZ CAROLINA RODRIGUEZ FARI?A</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -5339,18 +4963,14 @@
             <SimpleData name="Vivienda_1">-55.98929690000</SimpleData>
             <SimpleData name="Superficie">0.70000000000</SimpleData>
             <SimpleData name="Situaci_1">Par?metro</SimpleData>
-            <SimpleData name="Plantado">NO</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Fecha_Plan">2026/09/25</SimpleData>
             <SimpleData name="Jornales">0.00000000000</SimpleData>
             <SimpleData name="Monto">0.00000000000</SimpleData>
             <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.84352160979</SimpleData>
-            <SimpleData name="X">-55.97719907000</SimpleData>
-            <SimpleData name="Y">-25.53590731000</SimpleData>
-            <SimpleData name="cedula">5570607</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -5371,6 +4991,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">5829836.00000000000</SimpleData>
+            <SimpleData name="cedula">5829836</SimpleData>
             <SimpleData name="Nombres_y_">ELIDA ACOSTA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -5395,11 +5016,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.98740385632</SimpleData>
-            <SimpleData name="X">-55.88740592000</SimpleData>
-            <SimpleData name="Y">-25.58843885000</SimpleData>
-            <SimpleData name="cedula">5829836</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -5421,6 +5037,7 @@
         <ExtendedData>
           <SchemaData schemaUrl="#Lote_C.schema">
             <SimpleData name="Cédula">7990133.00000000000</SimpleData>
+            <SimpleData name="cedula">7990133</SimpleData>
             <SimpleData name="Nombres_y_">MARCIANA BENITEZ BRITEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -5445,11 +5062,6 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">C</SimpleData>
-            <SimpleData name="Parametro">0.00000000000</SimpleData>
-            <SimpleData name="Sup_SIG">0.74699852388</SimpleData>
-            <SimpleData name="X">-55.70166148000</SimpleData>
-            <SimpleData name="Y">-25.66646246000</SimpleData>
-            <SimpleData name="cedula">7990133</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -5480,6 +5092,66 @@
                   -55.7034066009944,-25.6644867001848,0
                   -55.7034992999946,-25.6644973001016,0
                   -55.7035250002051,-25.6646200007782,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Lote_C.98">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lote_C.schema">
+            <SimpleData name="Cédula">5867287.00000000000</SimpleData>
+            <SimpleData name="cedula">5867287</SimpleData>
+            <SimpleData name="Nombres_y_">CELIA MENDOZA LOPEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="ci_UNIF">5867287.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">REPATRIACION</SimpleData>
+            <SimpleData name="Localidad">3RA LINEA NORTE</SimpleData>
+            <SimpleData name="Teléfono">0981477292</SimpleData>
+            <SimpleData name="Vivienda_L">-25.52559010000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.85236680000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Fecha_Plan">2026/10/08</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Grupo_de_p">C-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">C</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.852819999856,-25.5245585008162,0
+                  -55.8532599995644,-25.5244733007044,0
+                  -55.853134399257,-25.5234307005333,0
+                  -55.8526571994092,-25.5234697005003,0
+                  -55.852819999856,-25.5245585008162,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.8543382999207,-25.524211700727,0
+                  -55.8546188994888,-25.52419360013,0
+                  -55.8544332998079,-25.5232050001316,0
+                  -55.8541663992079,-25.5232273005446,0
+                  -55.8543382999207,-25.524211700727,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
